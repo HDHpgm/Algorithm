@@ -60,3 +60,29 @@
 >### Knight (week5)
 > ![image](https://user-images.githubusercontent.com/77047002/135835876-e25a8e66-8417-4833-815c-4d383aab12bb.png)
 > ![image](https://user-images.githubusercontent.com/77047002/135836161-e246f2e9-ea6d-4250-bb0b-e95a0fcdb24a.png)
+
+
+<hr>
+
+
+>### DFS (week6)
+> ![image](https://user-images.githubusercontent.com/77047002/136704463-770df048-c8b9-4e4f-bd12-3e05f8446ab8.png)
+> ![image](https://user-images.githubusercontent.com/77047002/136704506-3f998f5a-4fb8-4b4a-9aac-8288a303773e.png)
+
+
+<hr>
+
+
+>### BFS (week6)
+> ![image](https://user-images.githubusercontent.com/77047002/136704545-573c60e8-014d-4a07-8287-102cd4b0ab4f.png)
+> DFS 그래프와 동일
+
+
+<hr>
+
+
+>### 음료수 얼려먹기 (week6)
+> ![image](https://user-images.githubusercontent.com/77047002/136704589-7c2663d8-0c80-466e-be09-65bd6152f4d2.png)
+> DFS 활용할 것
+
+
