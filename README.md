@@ -81,7 +81,7 @@
 <hr>
 
 
->### 음료수 얼려먹기 (week6)
+>### 음료수 얼려먹기(ICE) (week6)
 > ![image](https://user-images.githubusercontent.com/77047002/136704589-7c2663d8-0c80-466e-be09-65bd6152f4d2.png)
 > DFS 활용할 것
 
