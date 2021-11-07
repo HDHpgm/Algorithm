@@ -94,11 +94,38 @@
 
 
 
-
 <hr>
+
 
 
 >### 미로탈출 stack (week8)
 > ![image](https://user-images.githubusercontent.com/77047002/138732721-7762c97e-cf79-4830-8af3-28683c3efbf3.png)
+
+
+
+<hr>
+
+
+
+>### 비트 연산을 통해 짝수, 홀수 판별하기 (week10)
+> ![image](https://user-images.githubusercontent.com/77047002/140638660-ee8b991a-06db-4cc7-b7eb-5cbc7af2bec2.png)
+
+
+
+<hr>
+
+
+
+>### 비트 연산을 통해 문자의 대소문자 바꾸기 (week10)
+> ![image](https://user-images.githubusercontent.com/77047002/140638693-3a8e5130-a1f0-4489-806c-52eda3c14b3a.png)
+
+
+
+<hr>
+
+
+
+>### 가장 오른쪽 0값의 비트를 1로 바꾼 값 찾기 (week10)
+> ![image](https://user-images.githubusercontent.com/77047002/140638720-372396a4-fe64-48fd-ae06-f078a35a76a3.png)
 
 
